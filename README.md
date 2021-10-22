@@ -1,2 +1,5 @@
 # hello-world
-mark 1  github repository-x
+mark 1  github repository
+
+Hey Folks AWMKAR here!
+beginner in python.
